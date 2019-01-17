@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c2e3260-66a2-4a84-8f07-4ed5a62d9c3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/galleryComponent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/painting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/assemble.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/diagnose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/preparation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/mechanic.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/mechanic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/galleryComponent.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/galleryComponent.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,47 +26,66 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gif" value="2" />
-          <entry key="html" value="13" />
+          <entry key="html" value="17" />
           <entry key="js" value="1" />
           <entry key="png" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="13" />
+          <entry key="HTML" value="17" />
           <entry key="Image" value="7" />
           <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="204" />
+          <entry key="html" value="343" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="204" />
+          <entry key="HTML" value="343" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="74" column="54" selection-start-line="74" selection-start-column="54" selection-end-line="74" selection-end-column="54" />
+            <state relative-caret-position="320">
+              <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/diagnose.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/preparation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-717" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/mechanic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
+            <state relative-caret-position="359">
               <caret line="164" column="7" selection-start-line="164" selection-start-column="7" selection-end-line="164" selection-end-column="7" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/assemble.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-542" />
           </provider>
         </entry>
       </file>
@@ -93,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/painting.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="165" column="7" lean-forward="true" selection-start-line="152" selection-end-line="165" selection-end-column="7" />
+            <state relative-caret-position="209">
+              <caret line="126" column="42" selection-start-line="126" selection-start-column="42" selection-end-line="126" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -102,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/galleryComponent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2895">
-              <caret line="193" column="36" selection-start-line="193" selection-start-column="36" selection-end-line="193" selection-end-column="36" />
+            <state relative-caret-position="-788">
+              <caret line="121" column="125" lean-forward="true" selection-start-line="121" selection-start-column="125" selection-end-line="121" selection-end-column="125" />
             </state>
           </provider>
         </entry>
@@ -132,10 +152,10 @@
       <list>
         <option value="$PROJECT_DIR$/testGallery.html" />
         <option value="$PROJECT_DIR$/pages/testGallery.html" />
-        <option value="$PROJECT_DIR$/pages/galleryComponent.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/painting.html" />
         <option value="$PROJECT_DIR$/pages/mechanic.html" />
+        <option value="$PROJECT_DIR$/pages/galleryComponent.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -145,7 +165,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="821" />
@@ -241,10 +261,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9884000" />
+    <option name="totallyTimeSpent" value="13362000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="821" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
@@ -275,9 +295,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -325,20 +342,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/galleryComponent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2895">
-          <caret line="193" column="36" selection-start-line="193" selection-start-column="36" selection-end-line="193" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="74" column="54" selection-start-line="74" selection-start-column="54" selection-end-line="74" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/standard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -367,15 +370,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/painting.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="165" column="7" lean-forward="true" selection-start-line="152" selection-end-line="165" selection-end-column="7" />
+        <state relative-caret-position="209">
+          <caret line="126" column="42" selection-start-line="126" selection-start-column="42" selection-end-line="126" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/galleryComponent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-788">
+          <caret line="121" column="125" lean-forward="true" selection-start-line="121" selection-start-column="125" selection-end-line="121" selection-end-column="125" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/mechanic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
+        <state relative-caret-position="359">
           <caret line="164" column="7" selection-start-line="164" selection-start-column="7" selection-end-line="164" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/assemble.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-542" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/preparation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/diagnose.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
         </state>
       </provider>
     </entry>

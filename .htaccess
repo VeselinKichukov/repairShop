@@ -4,6 +4,8 @@
 
 #RewriteRule pages/preparation\.html$ /repairShop/some [NC,R,L]
 
+RewriteRule ^(.*)$   https://carrosserienickmv.herokuapp.com/$1   [P]
+
 RewriteRule voorbereiding  /preparation.html    [NC,L]    # works if i change the href to pages/some
 RewriteRule mecaniek  /mechanic.html    [NC,L]    # works if i change the href to pages/some
 RewriteRule spuitcabines  /painting.html    [NC,L]    # works if i change the href to pages/some

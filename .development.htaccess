@@ -1,0 +1,35 @@
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+RewriteBase /
+
+#RewriteRule ^repairShop/(.*)$ /$1 [L,NC,R]
+
+#<IfModule mod_rewrite.c>
+#    RewriteEngine On
+#
+#    RewriteRule ^(.*)$ repairShop/$1 [L]
+#</IfModule>
+
+# redirect html pages to the root domain
+RewriteRule ^index\.html$ /repairShop/ [NC,R,L]
+#RewriteRule pages/preparation\.html$ /repairShop/some [NC,R,L]
+
+RewriteRule voorbereiding  /repairShop/preparation.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule mecaniek  /repairShop/mechanic.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule spuitcabines  /repairShop/painting.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule monteer-demonteer  /repairShop/assemble.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule auto-diagnose  /repairShop/diagnose.html    [NC,L]    # works if i change the href to pages/some
+
+RewriteRule autos  /repairShop/carsPage.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule bestelwagens  /repairShop/busesPage.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule motorfietsen  /repairShop/motobikesPage.html    [NC,L]    # works if i change the href to pages/some
+
+RewriteRule galerij  /repairShop/gallery.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule contact-ons  /repairShop/contact.html    [NC,L]    # works if i change the href to pages/some
+
+
+#<IfModule mod_rewrite.c>
+#    RewriteEngine On
+#
+#    RewriteRule ^(.*)$ repairShop/$1 [L]
+#</IfModule>

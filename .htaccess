@@ -1,19 +1,16 @@
-RewriteEngine On
-RewriteBase /
-
 # redirect html pages to the root domain
 RewriteRule ^index\.html$ /repairShop/ [NC,R,L]
 #RewriteRule pages/preparation\.html$ /repairShop/some [NC,R,L]
 
-RewriteRule voorbereiding  /repairShop/preparation.html    [NC,L]    # works if i change the href to pages/some
-RewriteRule mecaniek  /repairShop/mechanic.html    [NC,L]    # works if i change the href to pages/some
-RewriteRule spuitcabines  /repairShop/painting.html    [NC,L]    # works if i change the href to pages/some
-RewriteRule monteer-demonteer  /repairShop/assemble.html    [NC,L]    # works if i change the href to pages/some
-RewriteRule auto-diagnose  /repairShop/diagnose.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule voorbereiding  /preparation.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule mecaniek  /mechanic.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule spuitcabines  /painting.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule monteer-demonteer  /assemble.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule auto-diagnose  /diagnose.html    [NC,L]    # works if i change the href to pages/some
 
-RewriteRule autos  /repairShop/carsPage.html    [NC,L]    # works if i change the href to pages/some
-RewriteRule bestelwagens  /repairShop/busesPage.html    [NC,L]    # works if i change the href to pages/some
-RewriteRule motorfietsen  /repairShop/motobikesPage.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule autos  /carsPage.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule bestelwagens  /busesPage.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule motorfietsen  /motobikesPage.html    [NC,L]    # works if i change the href to pages/some
 
-RewriteRule galerij  /repairShop/gallery.html    [NC,L]    # works if i change the href to pages/some
-RewriteRule contact-ons  /repairShop/contact.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule galerij  /gallery.html    [NC,L]    # works if i change the href to pages/some
+RewriteRule contact-ons  /contact.html    [NC,L]    # works if i change the href to pages/some

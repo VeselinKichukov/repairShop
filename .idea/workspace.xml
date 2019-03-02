@@ -2,17 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c2e3260-66a2-4a84-8f07-4ed5a62d9c3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap-iso.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgRepair/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prefix.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storyBlock1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storyBlock2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/assemble.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/assemble.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/busesPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/busesPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/carsPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/carsPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/diagnose.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/diagnose.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/mechanic.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/mechanic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/motobikesPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/motobikesPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/painting.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/painting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/preparation.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/preparation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/thankyou.htm" beforeDir="false" afterPath="$PROJECT_DIR$/pages/thankyou.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/styles/fontawesome-4.4.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/styles/fontawesome-4.4.0.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/styles/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/styles/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/assemble.html" beforeDir="false" afterPath="$PROJECT_DIR$/assemble.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/basic-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/busesPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/busesPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/carsPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/carsPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact/contactform.htm" beforeDir="false" afterPath="$PROJECT_DIR$/contact/contactform.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact/freecontactform.css" beforeDir="false" afterPath="$PROJECT_DIR$/contact/freecontactform.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact/freecontactforminstall.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact/freecontactforminstall.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact/freecontactformvalidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/contact/freecontactformvalidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact/thankyou.htm" beforeDir="false" afterPath="$PROJECT_DIR$/contact/thankyou.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/diagnose.html" beforeDir="false" afterPath="$PROJECT_DIR$/diagnose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/freecontactformprocess.php" beforeDir="false" afterPath="$PROJECT_DIR$/freecontactformprocess.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/freecontactformsettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/freecontactformsettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/full-width.html" beforeDir="false" afterPath="$PROJECT_DIR$/full-width.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/galleryAssemble.html" beforeDir="false" afterPath="$PROJECT_DIR$/galleryAssemble.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/galleryComponent.html" beforeDir="false" afterPath="$PROJECT_DIR$/galleryComponent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/galleryDiagnose.html" beforeDir="false" afterPath="$PROJECT_DIR$/galleryDiagnose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/galleryMechanic.html" beforeDir="false" afterPath="$PROJECT_DIR$/galleryMechanic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/galleryPainting.html" beforeDir="false" afterPath="$PROJECT_DIR$/galleryPainting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/galleryPreparation.html" beforeDir="false" afterPath="$PROJECT_DIR$/galleryPreparation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/031-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/031-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/031.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/031.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/032-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/032-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/032.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/032.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/033-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/033-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/033.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/033.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/034-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/034-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/034.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/034.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/035-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/035-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/035.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/035.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/036-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/036-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/036.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/036.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/037-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/037-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/037.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/037.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/038-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/038-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/038.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/038.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/039-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/039-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/039.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/039.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/040-s190x90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/040-s190x90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/040.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/040.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/img/spin.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/spin.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/09.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imgRepair/33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgRepair/33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/js/jssor.slider-27.5.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jssor.slider-27.5.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mechanic.html" beforeDir="false" afterPath="$PROJECT_DIR$/mechanic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/motobikesPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/motobikesPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/painting.html" beforeDir="false" afterPath="$PROJECT_DIR$/painting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/preparation.html" beforeDir="false" afterPath="$PROJECT_DIR$/preparation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sidebar-left.html" beforeDir="false" afterPath="$PROJECT_DIR$/sidebar-left.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sidebar-right.html" beforeDir="false" afterPath="$PROJECT_DIR$/sidebar-right.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/standard.html" beforeDir="false" afterPath="$PROJECT_DIR$/standard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/thankyou.htm" beforeDir="false" afterPath="$PROJECT_DIR$/thankyou.htm" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,48 +114,63 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="575961617">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="3" />
+          <entry key="css" value="5" />
           <entry key="gif" value="2" />
-          <entry key="htm" value="5" />
-          <entry key="html" value="102" />
-          <entry key="js" value="3" />
-          <entry key="php" value="3" />
-          <entry key="png" value="5" />
+          <entry key="htaccess" value="1" />
+          <entry key="htm" value="7" />
+          <entry key="html" value="122" />
+          <entry key="js" value="4" />
+          <entry key="less" value="1" />
+          <entry key="php" value="4" />
+          <entry key="png" value="6" />
           <entry key="rnc" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="3" />
-          <entry key="HTML" value="107" />
-          <entry key="Image" value="7" />
-          <entry key="JavaScript" value="3" />
-          <entry key="PHP" value="3" />
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="129" />
+          <entry key="Image" value="8" />
+          <entry key="JavaScript" value="4" />
+          <entry key="Less" value="1" />
+          <entry key="PHP" value="4" />
           <entry key="RNG Compact" value="1" />
+          <entry key="htaccess" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="htm" value="32" />
-          <entry key="html" value="1571" />
-          <entry key="php" value="16" />
+          <entry key="css" value="1" />
+          <entry key="htaccess" value="310" />
+          <entry key="htm" value="33" />
+          <entry key="html" value="2270" />
+          <entry key="php" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1603" />
-          <entry key="PHP" value="16" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="2303" />
+          <entry key="PHP" value="19" />
+          <entry key="htaccess" value="310" />
         </counts>
       </usages-collector>
     </session>
@@ -69,15 +178,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="380" column="7" lean-forward="true" selection-start-line="304" selection-end-line="380" selection-end-column="7" />
+            <state relative-caret-position="1335">
+              <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#7302#7310#0" expanded="true" />
-                <element signature="e#8088#8096#0" expanded="true" />
-                <element signature="e#8874#8882#0" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -86,11 +201,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/thankyou.htm">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carsPage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
+            <state relative-caret-position="1185">
+              <caret line="79" column="36" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="40" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/busesPage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="39" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/motobikesPage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="147" column="32" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -101,37 +253,55 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>480x330</find>
-      <find>ESCARINE-VEH</find>
-      <find>background-image:url('images/demo/backgrounds/02.png');</find>
-      <find>01.jpg</find>
-      <find>LINK Te</find>
-      <find>imgr borderedbox inspace-5</find>
-      <find>imgr.gif</find>
-      <find>imgr</find>
-      <find>jquery.</find>
-      <find>jquery.js</find>
-      <find>slides</find>
-      <find>jssor.</find>
-      <find>Caption</find>
-      <find>jque</find>
-      <find>slides_preparation</find>
-      <find>latest</find>
-      <find>meca</find>
-      <find>pages/mechanic.html</find>
-      <find>mec</find>
-      <find>mecan</find>
       <find>contact-map</find>
       <find>loborti</find>
-      <find>index</find>
       <find>home</find>
       <find>Voertuigens</find>
       <find>Vehicle</find>
+      <find>odio</find>
+      <find>jque</find>
+      <find>bootstrap.min</find>
+      <find>boot</find>
+      <find>galle</find>
+      <find>mechan</find>
+      <find>paint</find>
+      <find>diagnose</find>
+      <find>index</find>
+      <find>Bottom Background Image Wrapper --&gt;</find>
+      <find>pages</find>
+      <find>pages§</find>
+      <find>../images/demo/imgr.jpeg</find>
+      <find>\&lt;li\&gt;\&lt;a href\=\&quot;voorbereiding\&quot;\&gt;VOORBEREIDING\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \&lt;li\&gt;\&lt;a href\=\&quot;mecaniek\&quot;\&gt;MECANIEKZONE\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \&lt;li\&gt;\&lt;a href\=\&quot;spuitcabines\&quot;\&gt;SPUITCABINES\/KLEURENLABORATORIUM\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \&lt;li\&gt;\&lt;a href\=\&quot;monteer\-demonteer\&quot;\&gt;MONTEER \-EN DEMONTEERZONES\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \&lt;li\&gt;\&lt;a href\=\&quot;auto\-diagnose\&quot;\&gt;AUTO DIAGNOSE\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
+      <find>\&lt;li\&gt;\&lt;a href\=\&quot;preparation\.html\&quot;\&gt;VOORBEREIDING\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;mechanic\.html\&quot;\&gt;MECANIEKZONE\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;painting\.html\&quot;\&gt;SPUITCABINES\/KLEURENLABORATORIUM\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;assemble\.html\&quot;\&gt;MONTEER \-EN DEMONTEERZONES\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;diagnose\.html\&quot;\&gt;AUTO DIAGNOSE\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
+      <find>\&lt;li\&gt;\&lt;a href\=\&quot;preparation\.html\&quot;\&gt;VOORBEREIDING\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;mechanic\.html\&quot;\&gt;MECANIEKZONE\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;painting\.html\&quot;\&gt;SPUITCABINES\/KLEURENLABORATORIUM\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;assemble\.html\&quot;\&gt;MONTEER \-EN DEMONTEERZONES\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;diagnose\.html\&quot;\&gt;AUTO DIAGNOSE\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
+      <find>\&lt;li\&gt;\&lt;a href\=\&quot;preparation\.html\&quot;\&gt;VOORBEREIDING\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;mechanic\.html\&quot;\&gt;MECANIEKZONE\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;painting\.html\&quot;\&gt;SPUITCABINES\/KEURENLABORATORIUM\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;assemble\.html\&quot;\&gt;MONTEER \-EN DEMONTEERZONES\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;diagnose\.html\&quot;\&gt;AUTO DIAGNOSE\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
+      <find>../images/demo/backgrounds/01.jpg</find>
+      <find>../index.html</find>
+      <find>background image</find>
+      <find>galerij</find>
+      <find>gallery</find>
+      <find>.html</find>
+      <find>contact</find>
+      <find>Background Image</find>
     </findStrings>
     <replaceStrings>
       <replace>Voertuigen</replace>
+      <replace>images/demo/imgr.jpeg</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;voorbereiding&quot;&gt;VOORBEREIDING&lt;/a&gt;&lt;/li&gt;                 &lt;li&gt;&lt;a href=&quot;mecaniek&quot;&gt;MECANIEKZONE&lt;/a&gt;&lt;/li&gt;                 &lt;li&gt;&lt;a href=&quot;spuitcabines&quot;&gt;SPUITCABINES/KLEURENLABORATORIUM&lt;/a&gt;&lt;/li&gt;                 &lt;li&gt;&lt;a href=&quot;monteer-demonteer&quot;&gt;MONTEER -EN DEMONTEERZONES&lt;/a&gt;&lt;/li&gt;                 &lt;li&gt;&lt;a href=&quot;auto-diagnose&quot;&gt;AUTO DIAGNOSE&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>images/demo/backgrounds/01.jpg</replace>
+      <replace>index.html</replace>
+      <replace />
+      <replace>galerij</replace>
+      <replace>contact-ons</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -145,11 +315,9 @@
         <option value="$PROJECT_DIR$/pages/galleryComponent.html" />
         <option value="$PROJECT_DIR$/pages/galleryPreparationPhotos.html" />
         <option value="$PROJECT_DIR$/pages/newSlider.html" />
-        <option value="$PROJECT_DIR$/pages/galleryPreparation.html" />
         <option value="$PROJECT_DIR$/pages/galleryPreparation2.html" />
         <option value="$PROJECT_DIR$/pages/gallery.html" />
         <option value="$PROJECT_DIR$/pages/contact/freecontactformsettings.php" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/assemble.html" />
         <option value="$PROJECT_DIR$/pages/busesPage.html" />
         <option value="$PROJECT_DIR$/pages/carsPage.html" />
@@ -157,9 +325,29 @@
         <option value="$PROJECT_DIR$/pages/diagnose.html" />
         <option value="$PROJECT_DIR$/pages/mechanic.html" />
         <option value="$PROJECT_DIR$/pages/motobikesPage.html" />
-        <option value="$PROJECT_DIR$/pages/painting.html" />
         <option value="$PROJECT_DIR$/pages/preparation.html" />
         <option value="$PROJECT_DIR$/pages/thankyou.htm" />
+        <option value="$PROJECT_DIR$/pages/galleryMechanic.html" />
+        <option value="$PROJECT_DIR$/pages/galleryPainting.html" />
+        <option value="$PROJECT_DIR$/pages/painting.html" />
+        <option value="$PROJECT_DIR$/pages/galleryPreparation.html" />
+        <option value="$PROJECT_DIR$/pages/prefix.less" />
+        <option value="$PROJECT_DIR$/pages/storyBlock.html" />
+        <option value="$PROJECT_DIR$/pages/storyBlock2.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/diagnose.html" />
+        <option value="$PROJECT_DIR$/assemble.html" />
+        <option value="$PROJECT_DIR$/painting.html" />
+        <option value="$PROJECT_DIR$/mechanic.html" />
+        <option value="$PROJECT_DIR$/preparation.html" />
+        <option value="$PROJECT_DIR$/motobikesPage.html" />
+        <option value="$PROJECT_DIR$/busesPage.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/carsPage.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/thankyou.htm" />
       </list>
     </option>
   </component>
@@ -187,11 +375,6 @@
               <item name="repairShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="repairShop" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="repairShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="repairShop" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -199,22 +382,24 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/pages/js" />
       <recent name="$PROJECT_DIR$/pages/css" />
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/pages/images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pages" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,17 +426,20 @@
       <updated>1547312366705</updated>
       <workItem from="1547312370159" duration="7940000" />
       <workItem from="1549066766606" duration="25768000" />
+      <workItem from="1550176707149" duration="15260000" />
+      <workItem from="1551004487934" duration="19467000" />
+      <workItem from="1551551959673" duration="253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53547000" />
+    <option name="totallyTimeSpent" value="90056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19170243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20600858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,7 +450,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32921812" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -279,153 +467,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/demo/480x330.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/demo/avatar.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/demo/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/demo/imgr.gif" />
-    <entry file="file://$PROJECT_DIR$/images/demo/imgl.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/demo/gallery/01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/demo/backgrounds/01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/full-width.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="12" selection-end-line="346" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/testGallery.html" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/scripts/jquery.backtotop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="244" column="16" selection-start-line="244" selection-start-column="16" selection-end-line="244" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testGallery.html" />
-    <entry file="file://$PROJECT_DIR$/node_modules/skitter-slider/examples/thumbs.html" />
-    <entry file="file://$PROJECT_DIR$/pages/js/app.js" />
-    <entry file="file://$PROJECT_DIR$/dist/skitter.css" />
-    <entry file="file://$PROJECT_DIR$/pages/css/styles.css" />
-    <entry file="file://$PROJECT_DIR$/pages/css/skin 1/style.css" />
-    <entry file="file://$PROJECT_DIR$/pages/js/iview.js" />
-    <entry file="file://$PROJECT_DIR$/iView-master/index5.html" />
-    <entry file="file://$PROJECT_DIR$/iView-master/index4.html" />
-    <entry file="file://$PROJECT_DIR$/pages/standard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="127" column="16" lean-forward="true" selection-end-line="205" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/standard.html" />
     <entry file="file://$PROJECT_DIR$/pages/galleryPreparationPhotos.html" />
-    <entry file="file://$PROJECT_DIR$/pages/galleryComponent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/galleryPainting.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/galleryAssemble.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/galleryDiagnose.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/galleryMechanic.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/galleryComponent.html" />
+    <entry file="file://$PROJECT_DIR$/pages/galleryAssemble.html" />
+    <entry file="file://$PROJECT_DIR$/pages/galleryDiagnose.html" />
     <entry file="file://$PROJECT_DIR$/pages/galleryPreparation2.html" />
     <entry file="file://$PROJECT_DIR$/pages/newSlider.html" />
     <entry file="file://$PROJECT_DIR$/pages/index.html" />
-    <entry file="file://$PROJECT_DIR$/pages/galleryPreparation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="904">
-          <caret line="139" column="13" lean-forward="true" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="219" column="21" lean-forward="true" selection-start-line="219" selection-start-column="21" selection-end-line="219" selection-end-column="21" />
-          <folding>
-            <element signature="e#12414#12419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/freecontactformsettings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/freecontactformprocess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="43" column="49" lean-forward="true" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/contact/thankyou.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/contact/freecontactforminstall.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/contact/contactform.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1043">
-          <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery.html" />
+    <entry file="file://$PROJECT_DIR$/pages/freecontactformsettings.php" />
+    <entry file="file://$PROJECT_DIR$/pages/freecontactformprocess.php" />
+    <entry file="file://$PROJECT_DIR$/pages/contact/thankyou.htm" />
+    <entry file="file://$PROJECT_DIR$/pages/contact/freecontactforminstall.php" />
+    <entry file="file://$PROJECT_DIR$/pages/contact/contactform.htm" />
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -433,132 +488,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/assemble.html">
+    <entry file="file://$PROJECT_DIR$/pages/assemble.html" />
+    <entry file="file://$PROJECT_DIR$/pages/busesPage.html" />
+    <entry file="file://$PROJECT_DIR$/pages/contact.html" />
+    <entry file="file://$PROJECT_DIR$/pages/motobikesPage.html" />
+    <entry file="file://$PROJECT_DIR$/pages/carsPage.html" />
+    <entry file="file://$PROJECT_DIR$/pages/diagnose.html" />
+    <entry file="file://$PROJECT_DIR$/pages/preparation.html" />
+    <entry file="file://$PROJECT_DIR$/pages/galleryPreparation.html" />
+    <entry file="file://$PROJECT_DIR$/pages/galleryMechanic.html" />
+    <entry file="file://$PROJECT_DIR$/pages/painting.html" />
+    <entry file="file://$PROJECT_DIR$/pages/galleryPainting.html" />
+    <entry file="file://$PROJECT_DIR$/pages/layout/scripts/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/pages/mechanic.html" />
+    <entry file="file://$PROJECT_DIR$/pages/thankyou.htm" />
+    <entry file="file://$PROJECT_DIR$/pages/prefix.less" />
+    <entry file="file://$PROJECT_DIR$/pages/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/pages/bootstrap-iso.css" />
+    <entry file="file://$PROJECT_DIR$/pages/test.html" />
+    <entry file="file://$PROJECT_DIR$/pages/storyBlock1.html" />
+    <entry file="file://$PROJECT_DIR$/pages/storyBlock2.html" />
+    <entry file="file://$PROJECT_DIR$/contact/thankyou.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="233" column="7" lean-forward="true" selection-start-line="157" selection-end-line="233" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10196#10201#0" expanded="true" />
-            <element signature="e#11566#11572#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/busesPage.html">
+    <entry file="file://$PROJECT_DIR$/images/demo/backgrounds/01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diagnose.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="227" column="7" selection-start-line="227" selection-start-column="7" selection-end-line="227" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10924#10929#0" expanded="true" />
-            <element signature="e#12293#12299#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="76" column="60" lean-forward="true" selection-start-line="76" selection-start-column="60" selection-end-line="76" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/contact.html">
+    <entry file="file://$PROJECT_DIR$/assemble.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="227" column="7" lean-forward="true" selection-start-line="227" selection-start-column="7" selection-end-line="227" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#9471#9476#0" expanded="true" />
-            <element signature="e#10840#10846#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/mechanic.html">
+    <entry file="file://$PROJECT_DIR$/painting.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="228" column="7" selection-start-line="228" selection-start-column="7" selection-end-line="228" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10223#10228#0" expanded="true" />
-            <element signature="e#11592#11598#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="218">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/motobikesPage.html">
+    <entry file="file://$PROJECT_DIR$/mechanic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="228" column="7" selection-start-line="228" selection-start-column="7" selection-end-line="228" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10927#10932#0" expanded="true" />
-            <element signature="e#12296#12302#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="218">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/painting.html">
+    <entry file="file://$PROJECT_DIR$/preparation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="229" column="7" selection-start-line="229" selection-start-column="7" selection-end-line="229" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10303#10308#0" expanded="true" />
-            <element signature="e#11672#11678#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/carsPage.html">
+    <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="105" column="6" lean-forward="true" selection-end-line="105" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10896#10901#0" expanded="true" />
-            <element signature="e#12265#12271#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="369">
+          <caret line="242" column="32" selection-start-line="242" selection-start-column="16" selection-end-line="242" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/diagnose.html">
+    <entry file="file://$PROJECT_DIR$/thankyou.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="228" column="7" selection-start-line="228" selection-start-column="7" selection-end-line="228" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10230#10235#0" expanded="true" />
-            <element signature="e#11599#11605#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="370">
+          <caret line="191" column="32" selection-start-line="191" selection-start-column="16" selection-end-line="191" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/preparation.html">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="214" column="22" selection-start-line="214" selection-start-column="22" selection-end-line="214" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10726#10731#0" expanded="true" />
-            <element signature="e#12095#12101#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="380" column="7" lean-forward="true" selection-start-line="304" selection-end-line="380" selection-end-column="7" />
+        <state relative-caret-position="1335">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7302#7310#0" expanded="true" />
-            <element signature="e#8088#8096#0" expanded="true" />
-            <element signature="e#8874#8882#0" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -566,13 +590,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/thankyou.htm">
+    <entry file="file://$PROJECT_DIR$/carsPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
+        <state relative-caret-position="1185">
+          <caret line="79" column="36" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busesPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="39" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motobikesPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="147" column="32" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

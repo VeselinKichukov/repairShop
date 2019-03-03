@@ -1,4 +1,7 @@
 # redirect html pages to the root domain
+
+RewriteEngine On
+
 RewriteRule ^(.*)$   https://carrosserienickmv.herokuapp.com/$1   [P]
 
 RewriteRule /voorbereiding  /preparation.html    [NC,L]    # works if i change the href to pages/some

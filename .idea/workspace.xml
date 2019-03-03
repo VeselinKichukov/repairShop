@@ -30,7 +30,7 @@
         <counts>
           <entry key="css" value="5" />
           <entry key="gif" value="2" />
-          <entry key="htaccess" value="2" />
+          <entry key="htaccess" value="3" />
           <entry key="htm" value="7" />
           <entry key="html" value="123" />
           <entry key="js" value="4" />
@@ -50,13 +50,14 @@
           <entry key="PHP" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RNG Compact" value="1" />
+          <entry key="Scratch" value="1" />
           <entry key="htaccess" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1" />
-          <entry key="htaccess" value="331" />
+          <entry key="htaccess" value="334" />
           <entry key="htm" value="33" />
           <entry key="html" value="2270" />
           <entry key="php" value="19" />
@@ -67,7 +68,7 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="2303" />
           <entry key="PHP" value="19" />
-          <entry key="htaccess" value="331" />
+          <entry key="htaccess" value="334" />
         </counts>
       </usages-collector>
     </session>
@@ -76,9 +77,14 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -250,6 +256,7 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/thankyou.htm" />
         <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.htaccess" />
       </list>
     </option>
   </component>
@@ -291,6 +298,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ApacheConfig" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -335,12 +343,12 @@
       <workItem from="1549066766606" duration="25768000" />
       <workItem from="1550176707149" duration="15260000" />
       <workItem from="1551004487934" duration="19467000" />
-      <workItem from="1551551959673" duration="7620000" />
+      <workItem from="1551551959673" duration="8435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97423000" />
+    <option name="totallyTimeSpent" value="98238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
@@ -374,7 +382,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/galleryComponent.html" />
     <entry file="file://$PROJECT_DIR$/pages/galleryAssemble.html" />
     <entry file="file://$PROJECT_DIR$/pages/galleryDiagnose.html" />
     <entry file="file://$PROJECT_DIR$/pages/galleryPreparation2.html" />
@@ -536,12 +543,15 @@
     <entry file="file://$PROJECT_DIR$/images/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

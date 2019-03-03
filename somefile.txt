@@ -1,5 +1,5 @@
 # redirect html pages to the root domain
-
+#apache_app.conf
 RewriteEngine On
 
 #RewriteRule ^index\.html$ /repairShop/ [NC,R,L]

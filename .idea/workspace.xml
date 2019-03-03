@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c2e3260-66a2-4a84-8f07-4ed5a62d9c3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apache_app.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache_app.conf" beforeDir="false" afterPath="$PROJECT_DIR$/apache_app.conf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +60,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Procfile" value="23" />
+          <entry key="conf" value="1" />
           <entry key="css" value="1" />
           <entry key="htaccess" value="349" />
           <entry key="htm" value="33" />
@@ -75,6 +74,7 @@
           <entry key="HTML" value="2303" />
           <entry key="PHP" value="19" />
           <entry key="PLAIN_TEXT" value="23" />
+          <entry key="SmartyConfig" value="1" />
           <entry key="htaccess" value="349" />
         </counts>
       </usages-collector>
@@ -91,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -100,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apache_app.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="120">
+              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -287,8 +287,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.htaccess" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/Procfile.txt" />
-        <option value="$PROJECT_DIR$/apache_app.conf" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/apache_app.conf" />
       </list>
     </option>
   </component>
@@ -370,12 +370,12 @@
       <workItem from="1549066766606" duration="25768000" />
       <workItem from="1550176707149" duration="15260000" />
       <workItem from="1551004487934" duration="19467000" />
-      <workItem from="1551551959673" duration="12343000" />
+      <workItem from="1551551959673" duration="12469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102146000" />
+    <option name="totallyTimeSpent" value="102272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
@@ -582,17 +582,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apache_app.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="53" selection-start-column="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apache_app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>

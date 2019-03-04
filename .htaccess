@@ -2,7 +2,7 @@
 
 RewriteEngine On
 
-RewriteRule ^index\.html$ /repairShop/ [NC,R,L]
+RewriteRule ^index\.html$ / [NC,R,L]
 
 RewriteRule voorbereiding  /preparation.html    [NC,L]    # works if i change the href to pages/some
 RewriteRule mecaniek  /mechanic.html    [NC,L]    # works if i change the href to pages/some
